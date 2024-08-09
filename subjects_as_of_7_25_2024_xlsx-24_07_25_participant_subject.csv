@@ -1,0 +1,5 @@
+hr_case flag,external_case_id,involved_party_role,involved_party_first_name,involved_party_last_name,participant_HRID,employee_code,Involved Party Address,Involved Party Relationship,Report Intake Sector (incident sector),New Intake Sector (incident sector),new_involved_party_business_unit,New Involved Party Sector,Division,New Division,Function,New Function,Report Type,Duplicate
+No,2024-07-ZZVWQ5I,SUBJECT,Bees,Eve,100093513,100093513,,Employee,Aeronautics Systems,,Aeronautics Systems,,,,AS Air Dominance,AS Air Dominance,CASE,No
+No,2024-07-L6CCJMD,SUBJECT,John,Doe,100093513,100093513,,Employee,Aeronautics Systems,,Aeronautics Systems,,,,AS Air Dominance,AS Air Dominance,CASE,No
+No,2024-07-L6CCJMD,SUBJECT,Jane,Eve,100093513,100093513,,Employee,Aeronautics Systems,,Aeronautics Systems,,,,AS Air Dominance,AS Air Dominance,CASE,No
+No,2024-07-ZZVWQ5I,SUBJECT,Bees,Hive,100093513,100093513,,Employee,Aeronautics Systems,,Aeronautics Systems,,,,AS Air Dominance,AS Air Dominance,CASE,No
